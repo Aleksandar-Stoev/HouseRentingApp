@@ -1,4 +1,6 @@
-﻿using System.Linq;
+# some change to test the protections
+
+using System.Linq;
 using System.Collections.Generic;
 using HouseRentingSystem.Services.Data;
 using HouseRentingSystem.Services.Data.Entities;
